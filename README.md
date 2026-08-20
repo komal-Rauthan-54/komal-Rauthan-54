@@ -1,83 +1,121 @@
-<h1 align="center">Hi , I'm Komal Rauthan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=32&pause=1000&color=63B3C3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Komal+Rauthan;CS+Undergrad+%7C+Web+Dev+%7C+AI;Cybersecurity+Enthusiast" alt="Typing SVG" />
+</h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Engineering+Student;Aspiring+Full+Stack+Developer+And+CPP+Developer;Always%20Eager%20to%20learn%20new%20things&center=true&width=600&height=80"></a>
-</p>
-<hr/>
-
-## 💫 About Me:
-✨ Passionate about learning new technologies<br>🌱 Currently learning the <b>FRONT END ,MACHINE LEARNING</b> & <b>ARTIFICAL INTELLIGENCE</b><br>
-
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> 💻 Tech Stack & Tools:
-![C++](https://img.shields.io/badge/C++-5C2D91?style=for-the-badge&logo=c++&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-<img src="https://media4.giphy.com/media/QM3HY1v4Eym58qiY1i/giphy.gif?cid=790b7611e82baed6147e3d312c0cc603a3b114d27fae9bc0&rid=giphy.gif&ct=s" width="40"> Streak stats
-<div align="center">
-<img height="150em" src="https://github-readme-stats.vercel.app/api/?username=TangoBeee&layout=compact&show_icon=true&theme=algolia" alt="TangoBee-stats"/> 
-</div>
-<div align="center">
-
-  <a>![Github streak][github-streak]</a>
-
-</div>
-<div align="center">
-
-  <a>![Github trophy][github-trophy]</a>
-
-</div>
-
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50" />  Coding Profiles  
-<div align="center">
-    
-
-</div>
-
-
-## 🙋‍♂️ Let's Connect
-[![Gmail][gmail-shield]][gmail-url]
-[![Linkedin][linkedin-shield]][linkedin-url]
-[![Github][github-shield]][github-url]
-<br>
-
-<div align="center">
-
-  <a href="https://github.com/BeastVJ">![Footer quote][quote-url]</a>
-
-</div>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/BeastVJ/count.svg" />
+  <a href="https://komal-rauthan-54.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-komal--rauthan--54.github.io-63B3C3?style=for-the-badge&logo=safari&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/komal-rauthan-b114292b8" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Komal%20Rauthan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:rauthankomal175@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-rauthankomal175-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
+<br/>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-[visitors-badge]: https://visitor-badge.glitch.me/badge?page_id=BeastVJ
-[github-stars-shield]: https://img.shields.io/github/stars/BeastVJ?style=social
-[github-stats]:https://githubreadmestats.vercel.app/apiusername=BeastVJ&theme=algolia&show_icons=true&include_all_commits=false&count_private=true&cache_seconds=7200
-[leetcode-stats-url]: https://leetcard.jacoblin.cool/Vijay_Bisht_7?theme=dark&font=Roboto&ext=heatmap
-[gfg-stats-url]: https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=
-[leetcode-url]: https://leetcode.com//
-[gfg-url]: https://auth.geeksforgeeks.org/user/
-[github-followers-shield]: https://img.shields.io/github/followers/?style=social
-[github-language]: https://github-readme-stats.vercel.app/api/top-langs/?username=BeastVJ&theme=algolia
-[github-streak]: https://streak-stats.demolab.com?user=BeastVJ&theme=algolia
-[github-trophy]: https://github-profile-trophy.vercel.app/?username=BeastVJ&theme=algolia
-[leetcode-problems-badge]: https://badges.peiyuan.ch/leetcode/Vijay_Bisht_7/solved?color=orange&logo=leetcode
-[gfg-rank-shield]: https://img.shields.io/badge/Institute%20Rank-150-green?labelColor=white&logo=geeksforgeeks&style=flat
-[leetcode-url]: https://leetcode.com/Vijay_Bisht_7/
-[gfg-url]:https://auth.geeksforgeeks.org/user/Vijay_Bisht_7
-[ssrn-shield]: https://img.shields.io/badge/-SSRN-informational?style=flat&logo=ssrn&logoColor=darkblue&color=white
-[ssrn-paper-url]: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3867738
-[ieee-shield]: https://img.shields.io/badge/IEEE-informational?style=flat&logo=ieee
-[ieee-paper-url]: https://ieeexplore.ieee.org/document/9807998
-[quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
-[gmail-shield]: https://img.shields.io/badge/-Komal%20Rauthan-grey?style=flat&logo=gmail
-[gmail-url]: mailto:rauthankomal75@gmail.com
-[linkedin-shield]: https://img.shields.io/badge/-Komal%20Rauthan-blue?style=flat&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/komal-rauthan-b114292b8/
-[github-shield]: https://img.shields.io/badge/-Komal%20Rauthan-black?style=flat&logo=github
-[linkedin-shield]: https://img.shields.io/badge/-Vijay%20Bisht-blue?style=flat&logo=linkedin&logoColor=white
-[github-shield]: https://img.shields.io/badge/-Komal%20Rauthan-black?style=flat&logo=github
-[quote-url]: https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia
-[leetcode-shield]: https://img.shields.io/badge/-Vijay%20Bisht-grey?style=flat&logo=leetcode
-[gfg-shield]: https://img.shields.io/badge/-Komal%20Rautha-darkgreen?style=flat&labelColor=white&logo=geeksforgeeks
-[github-url]: https://github.com/komal-Rauthan-54
+## 👩‍💻 About Me
+
+```yaml
+name      : Komal Rauthan
+location  : Bhimtal, Uttarakhand, India
+education : B.Tech CSE @ Graphic Era Hill University (2023–2027)
+focus     : Web Development · Cybersecurity · Agentic AI
+currently : Building AbhayaAI — agentic women safety platform
+open_to   : Internships · Collaborations · Open Source
+fun_fact  : National & International level semi-classical dancer 💃
+```
+
+<br/>
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack | Links |
+|--------|-------------|-------|-------|
+| **AbhayaAI** | Agentic AI safety platform for women — prevention, real-time escalation & FIR accountability | LangGraph · RAG · ChromaDB · Redis · WebRTC | [Repo](https://github.com/komal-Rauthan-54/ABHAYA-Not-an-Alarm-a-Guarantee) |
+| **HireWise** | AI recruitment platform — candidates build profiles via natural conversation | Node.js · Claude API · HTML/CSS/JS | [Repo](https://github.com/komal-Rauthan-54/hirewise-recruitment) · [Live ↗](https://hirewise-recruitment.onrender.com) |
+| **Plagiarism Detector** | Source code plagiarism checker using compiler design — detects structural similarity | C · Lex · Yacc | [Repo](https://github.com/komal-Rauthan-54/plagiarism-detector) |
+| **EduTeamUp** | Academic team formation platform with skill-based matching | HTML · CSS · JS | [Repo](https://github.com/komal-Rauthan-54/EduTeamUp) |
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-5C2D91?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-%23404d59?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300f?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+</p>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=komal-Rauthan-54&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=komal-Rauthan-54&layout=compact&theme=algolia&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=komal-Rauthan-54&theme=algolia&hide_border=true&ring=63B3C3&fire=63B3C3&currStreakLabel=63B3C3"/>
+</p>
+
+<br/>
+
+## 🏆 Achievements
+
+- 🥇 Winner — Multiple **National & International** semi-classical dance competitions
+- 💃 Finalist — International Dance Competition, Delhi
+- 💃 Finalist — Esperanza International Semi-Classical Dance Competition
+- 🔐 Qualified Round 2 — **CTF Cybersecurity Challenge**, Dehradun
+- 🇮🇳 Participant — **Smart India Hackathon (SIH)** 2025
+- 🎨 Participant — **Adobe India Hackathon** 2025
+- 💻 **100+ LeetCode** problems solved
+
+<br/>
+
+## 📜 Certifications
+
+- ☁️ AWS Cloud Practitioner Essentials — *Amazon Web Services, 2025*
+- 🏅 AWS Cloud Quest: Cloud Practitioner — *Amazon Web Services, 2025*
+- 🔐 Professional Cybersecurity Certificate — *Coursera, 2025*
+- 🛡️ Information Security Certificate — *Coursera, 2025*
+- 🗄️ Database Management System — *NPTEL, 2025*
+
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=komal-Rauthan-54&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=komal-Rauthan-54&label=Profile%20Views&color=63b3c3&style=flat"/>
+</p>
+
+<p align="center">
+  <a href="https://komal-rauthan-54.github.io">
+    <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-63B3C3?style=for-the-badge"/>
+  </a>
+</p>
